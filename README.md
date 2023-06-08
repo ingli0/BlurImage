@@ -1,6 +1,7 @@
 # Software Application for Image Blurring
 
 This repository contains the source code and documentation for a software application designed to blur regions of images. The application allows users to select specific areas of an image and apply a blur effect to prevent the detection of features within those regions.
+![image](https://github.com/ingli0/BlurImage/assets/76855285/d9ab5cad-f4fc-486f-8629-3e192ca60e34)
 
 ## Features
 - Capture images from a camera or open stored color or grayscale images
@@ -22,9 +23,11 @@ This repository contains the source code and documentation for a software applic
 3. Adjust the blur algorithm and degree of blurring as desired.
 4. Apply the blur effect to the image.
 5. Save the modified image with the blurred regions.
+![Uploading image.png…]()
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+![Uploading image.png…]()
 
 
 ## Acknowledgments
