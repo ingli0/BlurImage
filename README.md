@@ -23,11 +23,13 @@ This repository contains the source code and documentation for a software applic
 3. Adjust the blur algorithm and degree of blurring as desired.
 4. Apply the blur effect to the image.
 5. Save the modified image with the blurred regions.
-![Uploading image.png…]()
+![image](https://github.com/ingli0/BlurImage/assets/76855285/143ecf52-a355-4720-bd57-0c8288309c07)
+
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
-![Uploading image.png…]()
+![image](https://github.com/ingli0/BlurImage/assets/76855285/2358aa4d-bf13-4ac3-8cd5-ccab19c141eb)
+
 
 
 ## Acknowledgments
